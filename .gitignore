@@ -1,0 +1,7 @@
+# Private credentials
+config.php
+
+# System & temporary files
+.DS_Store
+Thumbs.db
+*.log
